@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Rahul Choudhuri</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I am Backend developer from India</h3>
 <img align="right" width=400 src="https://media.licdn.com/dms/image/C4D22AQFPGrPVyFRw6g/feedshare-shrink_2048_1536/0/1646903231812?e=2147483647&v=beta&t=nkczTBrnUNmKan7zRkq59ifMrCkNB3mj_XukN7ebyl8"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulchoudhuri&label=Profile%20views&color=0e75b6&style=flat" alt="rahulchoudhuri" /> </p>
 
